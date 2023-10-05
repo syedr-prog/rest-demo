@@ -14,4 +14,5 @@
    - ![img_5.png](img_5.png)
    - use openjdk20
 1. Every time new path is added the application will need to be stopped and started again
-:)
+- ![img.png](img.png)
+Cheers:)
