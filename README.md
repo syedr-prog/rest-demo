@@ -10,7 +10,8 @@
     - Or in intellij
       - Go to pom.xml file and wait for install mvn to appear and click the button to install all dependencies
 1. intellij build configuration
-   - ![img.png](img.png)
-   - use open jdk20
+   - ![img_1.png](img_1.png)
+   - ![img_2.png](img_2.png)
+   - use openjdk20
 1. Every time new path is added the application will need to be stopped and started again
 :)
