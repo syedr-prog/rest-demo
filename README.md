@@ -20,5 +20,7 @@
 1. Testing post path with postman
 - ![img_1.png](img_1.png)
   - It should return "Cloud Vendor Created Successfully"
-
+1. Testing get path with postman
+- ![img_2.png](img_2.png)
+- 
 Cheers:)
