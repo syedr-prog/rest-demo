@@ -15,4 +15,10 @@
   - use openjdk20
 3. Every time new path is added the application will need to be stopped and started again
 - ![img.png](img.png)
+
+## Testing api
+1. Testing post path with postman
+- ![img_1.png](img_1.png)
+  - It should return "Cloud Vendor Created Successfully"
+
 Cheers:)
