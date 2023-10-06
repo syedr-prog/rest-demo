@@ -20,7 +20,11 @@
 1. Testing post path with postman
 - ![img_1.png](img_1.png)
   - It should return "Cloud Vendor Created Successfully"
-1. Testing get path with postman
+2. Testing get path with postman
 - ![img_2.png](img_2.png)
-- 
+3. Testing update path
+- ![img_3.png](img_3.png)
+4. Testing delete path
+- ![img_6.png](img_6.png)
+
 Cheers:)
